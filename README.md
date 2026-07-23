@@ -16,4 +16,5 @@ File bài tập
 Vở ghi chép
 
 # Tiến độ học tập
-- [x] Day 01: Làm quen với Python
+- [x] Day 01: Làm quen với Python
+- [x] Day 02: Xử lý Chuỗi (String) trong Python
