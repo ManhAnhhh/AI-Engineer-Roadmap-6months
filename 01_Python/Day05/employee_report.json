@@ -1,0 +1,78 @@
+{
+  "E001": {
+    "name": "Ngô Mạnh Anh",
+    "role": "AI Engineer",
+    "department": "Research",
+    "salary": 18000000,
+    "skills": [
+      "Python",
+      "PyTorch",
+      "LangChain"
+    ],
+    "performance": 95
+  },
+  "E002": {
+    "name": "Nguyễn Thùy Linh",
+    "role": "Data Scientist",
+    "department": "Data",
+    "salary": 19000000,
+    "skills": [
+      "Python",
+      "SQL",
+      "Pandas",
+      "Scikit-learn"
+    ],
+    "performance": 92
+  },
+  "E003": {
+    "name": "Trần Minh Quân",
+    "role": "MLOps Engineer",
+    "department": "Infrastructure",
+    "salary": 20000000,
+    "skills": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Python"
+    ],
+    "performance": 82
+  },
+  "E004": {
+    "name": "Lê Thị Hoa",
+    "role": "AI Product Manager",
+    "department": "Product",
+    "salary": 22000000,
+    "skills": [
+      "Product Management",
+      "AI Strategy",
+      "Jira"
+    ],
+    "performance": 90
+  },
+  "E005": {
+    "name": "Phạm Văn Đức",
+    "role": "Data Engineer",
+    "department": "Data",
+    "salary": 17000000,
+    "skills": [
+      "Python",
+      "Spark",
+      "Airflow",
+      "SQL"
+    ],
+    "performance": 78
+  },
+  "E006": {
+    "name": "Hoàng Anh Vũ",
+    "role": "LLM Researcher",
+    "department": "Research",
+    "salary": 25000000,
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Transformers",
+      "RLHF"
+    ],
+    "performance": 97
+  }
+}
