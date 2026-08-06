@@ -21,3 +21,4 @@ Vở ghi chép
 - [x] Day 03: List trong Python
 - [x] Day 04: Tuple và Set trong Python
 - [x] Day 05: Dictionary trong Python
+- [x] Day 06: Hàm (Functions) trong Python
