@@ -23,3 +23,4 @@ Vở ghi chép
 - [x] Day 05: Dictionary trong Python
 - [x] Day 06: Hàm (Functions) trong Python
 - [x] Day 07: Xử lý File & Ngoại lệ (Exception Handling)
+- [x] Day 08: Nhập môn Lập trình Hướng đối tượng (OOP - Phần 1)
